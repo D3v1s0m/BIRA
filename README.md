@@ -1,16 +1,12 @@
-# bira
+# BIRA (Android Music Application)
 
-A music player app
+Welcome to the Android Music Application repository! This is an example application that demonstrates how to build a simple music player for Android using Flutter. The app allows users to play and pause music, skip tracks, and view the current track and artist information
 
-## Getting Started
+## Features
+* Play and pause music
+* Skip to the next or previous track
+* View the current track and artist information
+* Browse and select tracks from the music library
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Learn More At
+https://flutter.dev/learn
